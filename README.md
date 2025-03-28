@@ -1,3 +1,3 @@
 ## Hola! It's Thomas here 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomycesped)](https://github.com/tomycesped/github-readme-stats)
