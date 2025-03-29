@@ -1,4 +1,4 @@
-## Hola! It's Thomas here 👋
+## Hola! It's Thomas here 👋🏼
 
 I'm a passionate Front End developer from Argentina 🇦🇷
 
